@@ -49,8 +49,6 @@ public:
                 tmp1 = next1;
                 next1 = next1->next;
             }
-
-            // разные сдвиги если вставили и если не вставили
         }
 
         while (tmp2 != nullptr) {
